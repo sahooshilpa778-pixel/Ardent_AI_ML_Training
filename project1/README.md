@@ -163,5 +163,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 *Your Name*
 - GitHub: [@sahooshilpa778-pixel](https://github.com/sahooshilpa778-pixel)
-- LinkedIn: [sahooshilpa778-pixel](https://linkedin.com/in/sahooshilpa778-pixel)
+- LinkedIn: [Shilpa Sahoo](https://linkedin.com/in/sahooshilpa778-pixel)
 
